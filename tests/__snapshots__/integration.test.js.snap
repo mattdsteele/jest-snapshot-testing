@@ -19,12 +19,16 @@ Object {
       "number": "7.9.0",
       "url": "https://s3.amazonaws.com/heroku-nodejs-bins/node/release/linux-x64/node-v7.9.0-linux-x64.tar.gz",
     },
+    Object {
+      "number": "8.0.0",
+      "url": "https://s3.amazonaws.com/heroku-nodejs-bins/node/release/linux-x64/node-v8.0.0-linux-x64.tar.gz",
+    },
   ],
   "headers": Object {
     "connection": "close",
-    "content-length": "493",
+    "content-length": "616",
     "content-type": "application/json",
-    "date": "Tue, 06 Jun 2017 19:00:03 GMT",
+    "date": "Sat, 02 Nov 2019 19:37:46 GMT",
   },
   "status": 200,
 }
