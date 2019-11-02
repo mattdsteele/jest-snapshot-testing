@@ -21,4 +21,4 @@ jobs:
       env:
         CI: true
     - name: jest
-      uses: gimenete/github-jest-snapshots@1.0
+      uses: mattdsteele/github-jest-snapshots@patch-1
