@@ -23,4 +23,4 @@ jobs:
     - name: jest
       uses: mattdsteele/github-jest-snapshots@patch-1
       with:
-        gh-token: "${{ secrets.GITHUB_TOKEN }}"
+        GH_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
